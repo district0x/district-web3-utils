@@ -1,7 +1,7 @@
 (ns build
   (:require [clojure.tools.build.api :as b]
             [deps-deploy.deps-deploy :as dd]
-            [lib-version :refer [lib version] ]))
+            [lib-version :refer [lib version]]))
 
 (def class-dir "target/classes")
 (def basis (b/create-basis {:project "deps.edn"}))

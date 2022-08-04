@@ -1,13 +1,13 @@
 # district-web3-utils
 
-[![Build Status](https://travis-ci.org/district0x/district-web3-utils.svg?branch=master)](https://travis-ci.org/district0x/district-web3-utils)
+[![CircleCI](https://circleci.com/gh/district0x/district-web3-utils/tree/master.svg?style=svg)](https://circleci.com/gh/district0x/district-web3-utils/tree/master)
 
 
 Set of extra functions helpful for working with [web3.js](https://github.com/ethereum/web3.js/). 
 
 
 ## Installation
-Add `[district0x/district-web3-utils "1.0.3"]` into your project.clj  
+Add [![Clojars Project](https://img.shields.io/clojars/v/io.github.district0x/district-web3-utils.svg?include_prereleases)](https://clojars.org/io.github.district0x/district-web3-utils) into your project.clj  
 Include `[district.web3-utils]` in your CLJS file  
 
 ## API Overview
